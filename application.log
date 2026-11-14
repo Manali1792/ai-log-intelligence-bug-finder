@@ -1,0 +1,8 @@
+2026-11-14 10:00:01 INFO Application started
+2026-11-14 10:00:02 INFO Loading configuration
+2026-11-14 10:00:03 INFO Connecting to database
+2026-11-14 10:00:04 WARNING Database response is slow
+2026-11-14 10:00:05 ERROR Database connection failed: Connection timeout after 30 seconds
+2026-11-14 10:00:06 INFO Retrying database connection
+2026-11-14 10:00:07 ERROR Authentication failed: Invalid database credentials
+2026-11-14 10:00:08 CRITICAL Application shutting down
